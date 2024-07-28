@@ -1,0 +1,14 @@
+Instalar React Native:
+npx create-expo-app@latest NombreDeProyectoApp   (Con Todo)
+
+Instalar React Native Template en Blanco)
+npx create-expo-app@latest NombreDeProyectoApp --template blank (En Blanco)
+npx expo install react-dom react-native-web @expo/metro-runtime
+
+Ejecutar en web:
+npm run web
+
+
+Ejecutar en Android:
+Abrir Devive Manager de Android Studio
+npm run android
